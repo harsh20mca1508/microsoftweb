@@ -1,0 +1,163 @@
+.div0{
+    padding: 10px 16px;
+    background-color: white;
+    
+    overflow: auto;
+}
+.div01{
+    margin-left: 500px;
+
+}
+a{
+    text-decoration: none;
+    margin: 8px;  
+    color: black; 
+    transition: all; 
+     
+}
+.div2{
+    
+    
+    background-image: url(img2.jpg);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+  }
+
+h1{
+    color: white;
+    font-size: 70px;
+    padding-left: 200px;
+    padding-top: 200px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.div3{
+    margin-top: 50px;
+    padding: 10px 16px;
+    background-color: rgb(0, 28, 44);
+    
+    overflow: auto;
+}
+.input1,.input2,.input3,.input4{
+    margin: 20px 30px;
+    padding: 14px 10px;
+    width: 240px;
+    border-radius: 10px;
+    border: none;
+    outline-style: none;
+}
+.heading1,.heading2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family:Bradley Hand, cursive ;
+}
+.heading2{
+    color: rgb(0, 14, 17);
+    text-align: center;
+    font-size: 50px;
+    font-family:Bradley Hand, cursive ;
+    text-decoration-line: underline;
+}
+.div4{
+    
+    background-image: url(img5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 1050px;
+    width: 600px;
+    float: left;
+    margin: 20px;
+}
+.div5{
+    
+    background-image: url(img6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px;
+    width: 600px;
+    float: right;
+    margin: 20px;
+}
+.div6{
+    
+    background-image: url(img7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px;
+    width: 600px;
+    float: right;
+    margin: 20px;
+}
+.heading3,.heading4,.heading5{
+    color: white;
+    font-size: 70px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+}
+.p1,.p2,.p3{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.heading3{
+    padding-top: 360px;
+}
+.heading4{
+    padding-top: 100px;
+}
+.heading5{
+    padding-top: 60px;
+}
+
+.heading6{
+    color: white;
+    font-size: 70px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+}
+.div7{
+    border: 2px;
+    margin-top: 1200px;
+    background-color: rgb(0, 28, 44);
+    overflow: auto;
+}
+.head1,.head2,.head3{
+    color: white;
+    text-align: center;
+    font-family:Bradley Hand, cursive ;
+}
+.p4,.p5,.p6{
+    color: white;
+}
+.divf1{
+    float: left;
+    width: 300px;
+    height: 300px;
+    
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.divf2{
+    float: left;
+    width: 300px;
+    height: 300px;
+    
+    margin-left: 50px;
+}
+.divf3{
+    float: right;
+    width: 300px;
+    height: 300px;
+    
+    margin-right: 80px;
+}
